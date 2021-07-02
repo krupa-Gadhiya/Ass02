@@ -1,0 +1,13 @@
+C:\Users\HIREN GADHIYA\source\repos\8040\2\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.exe
+C:\Users\HIREN GADHIYA\source\repos\8040\2\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.deps.json
+C:\Users\HIREN GADHIYA\source\repos\8040\2\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.runtimeconfig.json
+C:\Users\HIREN GADHIYA\source\repos\8040\2\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.runtimeconfig.dev.json
+C:\Users\HIREN GADHIYA\source\repos\8040\2\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.dll
+C:\Users\HIREN GADHIYA\source\repos\8040\2\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.pdb
+C:\Users\HIREN GADHIYA\source\repos\8040\2\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.csprojAssemblyReference.cache
+C:\Users\HIREN GADHIYA\source\repos\8040\2\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.AssemblyInfoInputs.cache
+C:\Users\HIREN GADHIYA\source\repos\8040\2\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.AssemblyInfo.cs
+C:\Users\HIREN GADHIYA\source\repos\8040\2\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.csproj.CoreCompileInputs.cache
+C:\Users\HIREN GADHIYA\source\repos\8040\2\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.dll
+C:\Users\HIREN GADHIYA\source\repos\8040\2\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.pdb
+C:\Users\HIREN GADHIYA\source\repos\8040\2\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.genruntimeconfig.cache
