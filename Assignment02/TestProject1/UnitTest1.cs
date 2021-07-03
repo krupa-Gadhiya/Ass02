@@ -8,17 +8,18 @@ namespace TestProject1
     [TestFixture]
     public class UnitTest1
     {
+        
+        
         [Test]
-        public void TestMethod1()
+        public void GetTriangle_AllPosive_IncludeZero()
         {
-            //TriangleSolver TS = new TriangleSolver();
-            //Assert.AreEqual("equql", math.Analyze());
-            int  ac = new TriangleSolver(2,2,2);
-           // string result = "equal";
-            Assert.AreEqual("equal" ,TriangleSolver.Analyze());
+            int t1 = 0;
+            int t2 = 12;
+            int t3 = 22;
 
-           // int result= TriangleSolver.Analyze(2, 2, 2);
-            Assert.That(result,Is.EqualTo())
+            string expected = "Does not form a triangle";
+            var actual = TriangleSolver.Analyze(t1,t2,t3);
+            Assert.AreEqual(expected, actual);
 
         }
     }

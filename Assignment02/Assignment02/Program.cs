@@ -16,7 +16,9 @@ namespace Assignment02
                 switch (choice)
                 {
                     case 1:
-                        Console.WriteLine($"Triangle is {TriangleSolver.Analyze()}");
+                        int t1 = 0, t2 = 0, t3 = 0;
+                        Console.WriteLine($"Triangle is {TriangleSolver.Analyze(t1,t2,t3)}");
+                      
                         Console.ReadLine();
                         break;
 
