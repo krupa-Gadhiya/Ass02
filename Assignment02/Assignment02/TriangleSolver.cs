@@ -24,14 +24,18 @@ namespace Assignment02
             public static string Analyze(int t1,int t2,int t3)
             {
                 string result = string.Empty;
+
+            if (t1 == 0 && t2 == 0 && t3 == 0)
+            {
                 Console.Write("Input side 1 of triangle:");
-                 t1 = Convert.ToInt32(Console.ReadLine());
+                t1 = Convert.ToInt32(Console.ReadLine());
 
                 Console.Write("Input side 2 of triangle:");
-                 t2 = Convert.ToInt32(Console.ReadLine());
+                t2 = Convert.ToInt32(Console.ReadLine());
 
                 Console.Write("Input side 3 of triangle:");
-                 t3 = Convert.ToInt32(Console.ReadLine());
+                t3 = Convert.ToInt32(Console.ReadLine());
+            }
 
                     if (t1 + t2 > t3 && t1 + t3 > t2 && t2 + t3 > t1)
                     {
